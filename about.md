@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My definition about myself changes very often. I say, "why not" but that's just a way to procrastinate.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Same as above.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+For now, don't try to contact me. I don't respond to emails or texts anyway so what's the point‽ Having said that, you can visit my github page and leave me a message and I'll gladly get back to you in a day.
